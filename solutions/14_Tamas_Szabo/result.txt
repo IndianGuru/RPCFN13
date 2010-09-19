@@ -1,0 +1,8 @@
+Loaded suite rpcfn13_test
+Started
+.....
+Finished in 2.156123 seconds.
+
+5 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 10645

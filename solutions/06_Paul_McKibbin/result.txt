@@ -1,0 +1,576 @@
+================================================================================
+Q1. What is the population of the country with the most people?
+Yes, we know it's China, but just how many people lived there in 1996?
+A. Highest population in 1996 was in China of 1,210,004,956.
+================================================================================
+Q2. What are the five countries with the highest inflation rates, and what were those rates in 1996?
+A. Five countries with the highest inflation rates
+Country		Inflation Rate
+Belarus         244.0
+Turkey          94.0
+Azerbaijan      85.0
+Malawi          83.3
+Yemen           71.3
+================================================================================
+Q3. What are the six continents in the file and which countries belong to which continent? Can you also produce them in alphabetical order?
+Continent: Africa
+	Algeria
+	Angola
+	Bassas da India
+	Benin
+	Botswana
+	Bouvet Island
+	Burkina Faso
+	Burundi
+	Cameroon
+	Cape Verde
+	Central African Republic
+	Chad
+	Comoros
+	Congo
+	Cote dIvoire
+	Djibouti
+	Egypt
+	Equatorial Guinea
+	Eritrea
+	Ethiopia
+	Europa Island
+	French Southern and Antarctic Lands
+	Gabon
+	Gambia
+	Ghana
+	Glorioso Islands
+	Guinea
+	Guinea-Bissau
+	Heard Island and McDonald Islands
+	Juan de Nova Island
+	Kenya
+	Lesotho
+	Liberia
+	Libya
+	Madagascar
+	Malawi
+	Mali
+	Mauritania
+	Mauritius
+	Mayotte
+	Morocco
+	Mozambique
+	Namibia
+	Niger
+	Nigeria
+	Reunion
+	Rwanda
+	Saint Helena
+	Sao Tome and Principe
+	Senegal
+	Seychelles
+	Sierra Leone
+	Somalia
+	South Africa
+	Sudan
+	Swaziland
+	Tanzania
+	Togo
+	Tromelin Island
+	Tunisia
+	Uganda
+	Western Sahara
+	Zaire
+	Zambia
+	Zimbabwe
+Continent: Asia
+	Afghanistan
+	Armenia
+	Ashmore and Cartier Islands
+	Azerbaijan
+	Bahrain
+	Bangladesh
+	Bhutan
+	British Indian Ocean Territory
+	Brunei
+	Burma
+	Cambodia
+	China
+	Christmas Island
+	Cocos Islands
+	Cyprus
+	Gaza Strip
+	Georgia
+	Hong Kong
+	India
+	Indonesia
+	Iran
+	Iraq
+	Israel
+	Japan
+	Jordan
+	Kazakstan
+	Kuwait
+	Kyrgyzstan
+	Laos
+	Lebanon
+	Macau
+	Malaysia
+	Maldives
+	Mongolia
+	Nepal
+	North Korea
+	Oman
+	Pakistan
+	Papua New Guinea
+	Paracel Islands
+	Philippines
+	Qatar
+	Russia
+	Saudi Arabia
+	Singapore
+	South Korea
+	Spratly Islands
+	Sri Lanka
+	Syria
+	Taiwan
+	Tajikistan
+	Thailand
+	Turkey
+	Turkmenistan
+	United Arab Emirates
+	Uzbekistan
+	Vietnam
+	West Bank
+	Yemen
+Continent: Australia/Oceania
+	American Samoa
+	Australia
+	Baker Island
+	Cook Islands
+	Coral Sea Islands
+	Fiji
+	French Polynesia
+	Guam
+	Howland Island
+	Jarvis Island
+	Johnston Atoll
+	Kingman Reef
+	Kiribati
+	Marshall Islands
+	Micronesia
+	Midway Islands
+	Nauru
+	New Caledonia
+	New Zealand
+	Niue
+	Norfolk Island
+	Northern Mariana Islands
+	Palau
+	Palmyra Atoll
+	Pitcairn Islands
+	Solomon Islands
+	Tokelau
+	Tonga
+	Tuvalu
+	Vanuatu
+	Wake Island
+	Wallis and Futuna
+	Western Samoa
+Continent: Europe
+	Albania
+	Andorra
+	Austria
+	Belarus
+	Belgium
+	Bosnia and Herzegovina
+	Bulgaria
+	Croatia
+	Czech Republic
+	Denmark
+	Estonia
+	Faroe Islands
+	Finland
+	France
+	Germany
+	Gibraltar
+	Greece
+	Guernsey
+	Holy See
+	Hungary
+	Iceland
+	Ireland
+	Italy
+	Jan Mayen
+	Jersey
+	Latvia
+	Liechtenstein
+	Lithuania
+	Luxembourg
+	Macedonia
+	Malta
+	Man
+	Moldova
+	Monaco
+	Netherlands
+	Norway
+	Poland
+	Portugal
+	Romania
+	San Marino
+	Serbia and Montenegro
+	Slovakia
+	Slovenia
+	Spain
+	Svalbard
+	Sweden
+	Switzerland
+	Ukraine
+	United Kingdom
+Continent: North America
+	Anguilla
+	Antigua and Barbuda
+	Aruba
+	Bahamas
+	Barbados
+	Belize
+	Bermuda
+	British Virgin Islands
+	Canada
+	Cayman Islands
+	Clipperton Island
+	Costa Rica
+	Cuba
+	Dominica
+	Dominican Republic
+	El Salvador
+	Greenland
+	Grenada
+	Guadeloupe
+	Guatemala
+	Haiti
+	Honduras
+	Jamaica
+	Martinique
+	Mexico
+	Montserrat
+	Navassa Island
+	Netherlands Antilles
+	Nicaragua
+	Panama
+	Puerto Rico
+	Saint Kitts and Nevis
+	Saint Lucia
+	Saint Pierre and Miquelon
+	Saint Vincent and the Grenadines
+	Trinidad and Tobago
+	Turks and Caicos Islands
+	United States
+	Virgin Islands
+Continent: South America
+	Argentina
+	Bolivia
+	Brazil
+	Chile
+	Colombia
+	Ecuador
+	Falkland Islands
+	French Guiana
+	Guyana
+	Paraguay
+	Peru
+	South Georgia and the South Sandwich Islands
+	Suriname
+	Uruguay
+	Venezuela
+================================================================================
+Now you're just showing off the method_missing DSL, aren't you?
+A. Yes.
+Five countries with the highest total area
+Country		Total Area
+Russia          17075200
+Canada          09976140
+China           09596960
+United States   09372610
+Brazil          08511965
+================================================================================
+Five countries with the highest total gdp
+Country		Total GDP
+United States   7247700.0
+China           3500000.0
+Japan           2679200.0
+Germany         1452200.0
+India           1408700.0
+================================================================================
+Five countries with the highest agricultural gdp
+Country		Total GDP
+Georgia         70.4
+Afghanistan     65.0
+Burma           60.0
+Tanzania        58.0
+Armenia         57.0
+================================================================================
+                                        Europa Island   
+                                        Wake Island     
+                                        Baker Island    
+                                        Tromelin Island 
+                                        Ashmore and Cartier Islands
+                                        Tokelau         
+                                        Gaza Strip      
+                                        Palmyra Atoll   
+                                        South Georgia and the South Sandwich Islands
+                                        Bassas da India 
+                                        Midway Islands  
+                                        Kingman Reef    
+                                        Juan de Nova Island
+                                        Heard Island and McDonald Islands
+                                        Coral Sea Islands
+                                        Johnston Atoll  
+                                        Bouvet Island   
+                                        Jarvis Island   
+                                        Spratly Islands 
+                                        West Bank       
+                                        Glorioso Islands
+                                        Clipperton Island
+                                        Navassa Island  
+                                        Jan Mayen       
+                                        Paracel Islands 
+                                        French Southern and Antarctic Lands
+                                        Howland Island  
+                                        British Indian Ocean Territory
+Abu Dhabi                               United Arab Emirates
+Abuja                                   Nigeria         
+Accra                                   Ghana           
+Adamstown                               Pitcairn Islands
+Addis Ababa                             Ethiopia        
+Agana                                   Guam            
+Algiers                                 Algeria         
+Almaty                                  Kazakstan       
+Alofi                                   Niue            
+Amman                                   Jordan          
+Amsterdam                               Netherlands     
+Andorra la Vella                        Andorra         
+Ankara                                  Turkey          
+Antananarivo                            Madagascar      
+Apia                                    Western Samoa   
+Ashgabat                                Turkmenistan    
+Asmara                                  Eritrea         
+Asuncion                                Paraguay        
+Athens                                  Greece          
+Avarua                                  Cook Islands    
+Baghdad                                 Iraq            
+Baku                                    Azerbaijan      
+Bamako                                  Mali            
+Bandar Seri Begawan                     Brunei          
+Bangkok                                 Thailand        
+Bangui                                  Central African Republic
+Banjul                                  Gambia          
+Basse Terre                             Guadeloupe      
+Basseterre                              Saint Kitts and Nevis
+Beijing                                 China           
+Beirut                                  Lebanon         
+Belgrade                                Serbia and Montenegro
+Belmopan                                Belize          
+Berlin                                  Germany         
+Bern                                    Switzerland     
+Bishkek                                 Kyrgyzstan      
+Bissau                                  Guinea-Bissau   
+Bogota                                  Colombia        
+Brasilia                                Brazil          
+Bratislava                              Slovakia        
+Brazzaville                             Congo           
+Bridgetown                              Barbados        
+Brussels                                Belgium         
+Bucharest                               Romania         
+Budapest                                Hungary         
+Buenos Aires                            Argentina       
+Bujumbura                               Burundi         
+Cairo                                   Egypt           
+Canberra                                Australia       
+Caracas                                 Venezuela       
+Castries                                Saint Lucia     
+Cayenne                                 French Guiana   
+Charlotte Amalie                        Virgin Islands  
+Chisinau                                Moldova         
+Colombo                                 Sri Lanka       
+Conakry                                 Guinea          
+Copenhagen                              Denmark         
+Dakar                                   Senegal         
+Damascus                                Syria           
+Dar es Salaam                           Tanzania        
+Dhaka                                   Bangladesh      
+Djibouti                                Djibouti        
+Doha                                    Qatar           
+Douglas                                 Man             
+Dublin                                  Ireland         
+Dushanbe                                Tajikistan      
+El Aaiun                                Western Sahara  
+Fort de France                          Martinique      
+Freetown                                Sierra Leone    
+Funafuti                                Tuvalu          
+Gaborone                                Botswana        
+George Town                             Cayman Islands  
+Georgetown                              Guyana          
+Gibraltar                               Gibraltar       
+Grand Turk                              Turks and Caicos Islands
+Guatemala                               Guatemala       
+Hamilton                                Bermuda         
+Hanoi                                   Vietnam         
+Harare                                  Zimbabwe        
+Havana                                  Cuba            
+Helsinki                                Finland         
+Honiara                                 Solomon Islands 
+Islamabad                               Pakistan        
+Jakarta                                 Indonesia       
+Jamestown                               Saint Helena    
+Jerusalem                               Israel          
+Kabul                                   Afghanistan     
+Kampala                                 Uganda          
+Kathmandu                               Nepal           
+Khartoum                                Sudan           
+Kiev                                    Ukraine         
+Kigali                                  Rwanda          
+Kingston                                Jamaica         
+Kingston                                Norfolk Island  
+Kingstown                               Saint Vincent and the Grenadines
+Kinshasa                                Zaire           
+Kolonia                                 Micronesia      
+Koror                                   Palau           
+Kuala Lumpur                            Malaysia        
+Kuwait                                  Kuwait          
+La Paz                                  Bolivia         
+Libreville                              Gabon           
+Lilongwe                                Malawi          
+Lima                                    Peru            
+Lisbon                                  Portugal        
+Ljubljana                               Slovenia        
+Lome                                    Togo            
+London                                  United Kingdom  
+Longyearbyen                            Svalbard        
+Luanda                                  Angola          
+Lusaka                                  Zambia          
+Luxembourg                              Luxembourg      
+Macau                                   Macau           
+Madrid                                  Spain           
+Majuro                                  Marshall Islands
+Malabo                                  Equatorial Guinea
+Male                                    Maldives        
+Mamoutzou                               Mayotte         
+Managua                                 Nicaragua       
+Manama                                  Bahrain         
+Manila                                  Philippines     
+Maputo                                  Mozambique      
+Maseru                                  Lesotho         
+Mata Utu                                Wallis and Futuna
+Mbabane                                 Swaziland       
+Mexico                                  Mexico          
+Minsk                                   Belarus         
+Mogadishu                               Somalia         
+Monaco                                  Monaco          
+Monrovia                                Liberia         
+Montevideo                              Uruguay         
+Moroni                                  Comoros         
+Moscow                                  Russia          
+Muscat                                  Oman            
+NDjamena                                Chad            
+Nairobi                                 Kenya           
+Nassau                                  Bahamas         
+New Delhi                               India           
+Niamey                                  Niger           
+Nicosia                                 Cyprus          
+Nouakchott                              Mauritania      
+Noumea                                  New Caledonia   
+Nukualofa                               Tonga           
+Nuuk                                    Greenland       
+Oranjestad                              Aruba           
+Oslo                                    Norway          
+Ottawa                                  Canada          
+Ouagadougou                             Burkina Faso    
+Pago Pago                               American Samoa  
+Panama                                  Panama          
+Papeete                                 French Polynesia
+Paramaribo                              Suriname        
+Paris                                   France          
+Phnom Penh                              Cambodia        
+Plymouth                                Montserrat      
+Port Louis                              Mauritius       
+Port Moresby                            Papua New Guinea
+Port Vila                               Vanuatu         
+Port au Prince                          Haiti           
+Port of Spain                           Trinidad and Tobago
+Porto Novo                              Benin           
+Prague                                  Czech Republic  
+Praia                                   Cape Verde      
+Pretoria                                South Africa    
+Pyongyang                               North Korea     
+Quito                                   Ecuador         
+Rabat                                   Morocco         
+Rangoon                                 Burma           
+Reykjavik                               Iceland         
+Riga                                    Latvia          
+Riyadh                                  Saudi Arabia    
+Road Town                               British Virgin Islands
+Rome                                    Italy           
+Roseau                                  Dominica        
+Saint Denis                             Reunion         
+Saint Georges                           Grenada         
+Saint Helier                            Jersey          
+Saint Johns                             Antigua and Barbuda
+Saint Peter Port                        Guernsey        
+Saint Pierre                            Saint Pierre and Miquelon
+Saipan                                  Northern Mariana Islands
+San Jose                                Costa Rica      
+San Juan                                Puerto Rico     
+San Marino                              San Marino      
+San Salvador                            El Salvador     
+Sanaa                                   Yemen           
+Santiago                                Chile           
+Santo Domingo                           Dominican Republic
+Sao Tome                                Sao Tome and Principe
+Sarajevo                                Bosnia and Herzegovina
+Seoul                                   South Korea     
+Singapore                               Singapore       
+Skopje                                  Macedonia       
+Sofia                                   Bulgaria        
+Stanley                                 Falkland Islands
+Stockholm                               Sweden          
+Suva                                    Fiji            
+Taipei                                  Taiwan          
+Tallinn                                 Estonia         
+Tarawa                                  Kiribati        
+Tashkent                                Uzbekistan      
+Tbilisi                                 Georgia         
+Tegucigalpa                             Honduras        
+Tehran                                  Iran            
+The Settlement                          Christmas Island
+The Valley                              Anguilla        
+Thimphu                                 Bhutan          
+Tirane                                  Albania         
+Tokyo                                   Japan           
+Torshavn                                Faroe Islands   
+Tripoli                                 Libya           
+Tunis                                   Tunisia         
+Ulaanbaatar                             Mongolia        
+Vaduz                                   Liechtenstein   
+Valletta                                Malta           
+Vatican City                            Holy See        
+Victoria                                Hong Kong       
+Victoria                                Seychelles      
+Vienna                                  Austria         
+Vientiane                               Laos            
+Vilnius                                 Lithuania       
+Warsaw                                  Poland          
+Washington                              United States   
+Wellington                              New Zealand     
+West Island                             Cocos Islands   
+Willemstad                              Netherlands Antilles
+Windhoek                                Namibia         
+Yamoussoukro                            Cote dIvoire    
+Yaounde                                 Cameroon        
+Yerevan                                 Armenia         
+Zagreb                                  Croatia         
+no official capital                     Nauru           
+Loaded suite rpcfn13_test
+Started
+.....
+Finished in 0.004000 seconds.
+
+5 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 10308

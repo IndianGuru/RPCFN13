@@ -1,0 +1,280 @@
+China
+1210004956
+Belarus
+244.0
+Turkey
+94.0
+Azerbaijan
+85.0
+Malawi
+83.3
+Yemen
+71.3
+Africa Algeria
+Africa Angola
+Africa Bassas da India
+Africa Benin
+Africa Botswana
+Africa Bouvet Island
+Africa Burkina Faso
+Africa Burundi
+Africa Cameroon
+Africa Cape Verde
+Africa Central African Republic
+Africa Chad
+Africa Comoros
+Africa Congo
+Africa Cote dIvoire
+Africa Djibouti
+Africa Egypt
+Africa Equatorial Guinea
+Africa Eritrea
+Africa Ethiopia
+Africa Europa Island
+Africa French Southern and Antarctic Lands
+Africa Gabon
+Africa Gambia
+Africa Ghana
+Africa Glorioso Islands
+Africa Guinea
+Africa Guinea-Bissau
+Africa Heard Island and McDonald Islands
+Africa Juan de Nova Island
+Africa Kenya
+Africa Lesotho
+Africa Liberia
+Africa Libya
+Africa Madagascar
+Africa Malawi
+Africa Mali
+Africa Mauritania
+Africa Mauritius
+Africa Mayotte
+Africa Morocco
+Africa Mozambique
+Africa Namibia
+Africa Niger
+Africa Nigeria
+Africa Reunion
+Africa Rwanda
+Africa Saint Helena
+Africa Sao Tome and Principe
+Africa Senegal
+Africa Seychelles
+Africa Sierra Leone
+Africa Somalia
+Africa South Africa
+Africa Sudan
+Africa Swaziland
+Africa Tanzania
+Africa Togo
+Africa Tromelin Island
+Africa Tunisia
+Africa Uganda
+Africa Western Sahara
+Africa Zaire
+Africa Zambia
+Africa Zimbabwe
+Asia Afghanistan
+Asia Armenia
+Asia Ashmore and Cartier Islands
+Asia Azerbaijan
+Asia Bahrain
+Asia Bangladesh
+Asia Bhutan
+Asia British Indian Ocean Territory
+Asia Brunei
+Asia Burma
+Asia Cambodia
+Asia China
+Asia Christmas Island
+Asia Cocos Islands
+Asia Cyprus
+Asia Gaza Strip
+Asia Georgia
+Asia Hong Kong
+Asia India
+Asia Indonesia
+Asia Iran
+Asia Iraq
+Asia Israel
+Asia Japan
+Asia Jordan
+Asia Kazakstan
+Asia Kuwait
+Asia Kyrgyzstan
+Asia Laos
+Asia Lebanon
+Asia Macau
+Asia Malaysia
+Asia Maldives
+Asia Mongolia
+Asia Nepal
+Asia North Korea
+Asia Oman
+Asia Pakistan
+Asia Papua New Guinea
+Asia Paracel Islands
+Asia Philippines
+Asia Qatar
+Asia Russia
+Asia Saudi Arabia
+Asia Singapore
+Asia South Korea
+Asia Spratly Islands
+Asia Sri Lanka
+Asia Syria
+Asia Taiwan
+Asia Tajikistan
+Asia Thailand
+Asia Turkey
+Asia Turkmenistan
+Asia United Arab Emirates
+Asia Uzbekistan
+Asia Vietnam
+Asia West Bank
+Asia Yemen
+Australia/Oceania American Samoa
+Australia/Oceania Australia
+Australia/Oceania Baker Island
+Australia/Oceania Cook Islands
+Australia/Oceania Coral Sea Islands
+Australia/Oceania Fiji
+Australia/Oceania French Polynesia
+Australia/Oceania Guam
+Australia/Oceania Howland Island
+Australia/Oceania Jarvis Island
+Australia/Oceania Johnston Atoll
+Australia/Oceania Kingman Reef
+Australia/Oceania Kiribati
+Australia/Oceania Marshall Islands
+Australia/Oceania Micronesia
+Australia/Oceania Midway Islands
+Australia/Oceania Nauru
+Australia/Oceania New Caledonia
+Australia/Oceania New Zealand
+Australia/Oceania Niue
+Australia/Oceania Norfolk Island
+Australia/Oceania Northern Mariana Islands
+Australia/Oceania Palau
+Australia/Oceania Palmyra Atoll
+Australia/Oceania Pitcairn Islands
+Australia/Oceania Solomon Islands
+Australia/Oceania Tokelau
+Australia/Oceania Tonga
+Australia/Oceania Tuvalu
+Australia/Oceania Vanuatu
+Australia/Oceania Wake Island
+Australia/Oceania Wallis and Futuna
+Australia/Oceania Western Samoa
+Europe Albania
+Europe Andorra
+Europe Austria
+Europe Belarus
+Europe Belgium
+Europe Bosnia and Herzegovina
+Europe Bulgaria
+Europe Croatia
+Europe Czech Republic
+Europe Denmark
+Europe Estonia
+Europe Faroe Islands
+Europe Finland
+Europe France
+Europe Germany
+Europe Gibraltar
+Europe Greece
+Europe Guernsey
+Europe Holy See
+Europe Hungary
+Europe Iceland
+Europe Ireland
+Europe Italy
+Europe Jan Mayen
+Europe Jersey
+Europe Latvia
+Europe Liechtenstein
+Europe Lithuania
+Europe Luxembourg
+Europe Macedonia
+Europe Malta
+Europe Man
+Europe Moldova
+Europe Monaco
+Europe Netherlands
+Europe Norway
+Europe Poland
+Europe Portugal
+Europe Romania
+Europe San Marino
+Europe Serbia and Montenegro
+Europe Slovakia
+Europe Slovenia
+Europe Spain
+Europe Svalbard
+Europe Sweden
+Europe Switzerland
+Europe Ukraine
+Europe United Kingdom
+North America Anguilla
+North America Antigua and Barbuda
+North America Aruba
+North America Bahamas
+North America Barbados
+North America Belize
+North America Bermuda
+North America British Virgin Islands
+North America Canada
+North America Cayman Islands
+North America Clipperton Island
+North America Costa Rica
+North America Cuba
+North America Dominica
+North America Dominican Republic
+North America El Salvador
+North America Greenland
+North America Grenada
+North America Guadeloupe
+North America Guatemala
+North America Haiti
+North America Honduras
+North America Jamaica
+North America Martinique
+North America Mexico
+North America Montserrat
+North America Navassa Island
+North America Netherlands Antilles
+North America Nicaragua
+North America Panama
+North America Puerto Rico
+North America Saint Kitts and Nevis
+North America Saint Lucia
+North America Saint Pierre and Miquelon
+North America Saint Vincent and the Grenadines
+North America Trinidad and Tobago
+North America Turks and Caicos Islands
+North America United States
+North America Virgin Islands
+South America Argentina
+South America Bolivia
+South America Brazil
+South America Chile
+South America Colombia
+South America Ecuador
+South America Falkland Islands
+South America French Guiana
+South America Guyana
+South America Paraguay
+South America Peru
+South America South Georgia and the South Sandwich Islands
+South America Suriname
+South America Uruguay
+South America Venezuela
+Loaded suite rpcfn13_test
+Started
+.....
+Finished in 0.005000 seconds.
+
+5 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 33104
