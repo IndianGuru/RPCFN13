@@ -1,0 +1,26 @@
+What drive are you working with? ('U' or 'C')
+Just enter the drive letter (i.e., 'C'
+Please type in the location of the XML Input file
+Example: "C:\Contest\cia-1996\cia-1996.xml"
+Please type in the location of where you want the text output put
+Example: "C:\Contest\TextOutput.txt"
+Would you also like a Debugging Trace Output File? (Y or N)
+Normal Program Completion
+Loaded suite rpcfn13_test
+Started
+FF...
+Finished in 0.005001 seconds.
+
+  1) Failure:
+test_countries_belong_to_continents_in_alphabetical_order(EconomicsTest) [rpcfn13_test.rb:30]:
+<"Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See, Hungary, Iceland, Ireland, Italy, Jan Mayen, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Man, Moldova, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia and Montenegro, Slovakia, Slovenia, Spain, Svalbard, Sweden, Switzerland, Ukraine, United Kingdom"> expected but was
+<"Albania, Andorra, Belarus, Belgium, Bosnia and Herzegovina, Croatia, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Guernsey, Holy See, Iceland, Ireland, Italy, Jan Mayen, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Man, Moldova, Monaco, Norway, Poland, Portugal, Romania, San Marino, Serbia and Montenegro, Slovakia, Slovenia, Spain, Svalbard, Switzerland, Ukraine, United Kingdom, ">.
+
+  2) Failure:
+test_five_countries_with_highest_inflation_and_rates(EconomicsTest) [rpcfn13_test.rb:17]:
+<["Belarus", "Turkey", "Azerbaijan", "Malawi", "Yemen"]> expected but was
+<["Belarus", "Turkey", "Ashmore and Cartier Islands", "Malawi", "Yemen"]>.
+
+5 tests, 5 assertions, 2 failures, 0 errors, 0 skips
+
+Test run options: --seed 32653

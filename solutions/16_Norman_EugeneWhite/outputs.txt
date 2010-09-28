@@ -1,0 +1,32 @@
+This is Norm White's Text Output File
+2010-09-28 22:40:55 +0900
+
+Country with greatest population in 1996 is China with population of 1210004956
+
+The five countries with the highest inflation rates are:
+Belarus has an inflation rate of 244.0
+Turkey has an inflation rate of 94.0
+Ashmore and Cartier Islands has an inflation rate of 85.0
+Malawi has an inflation rate of 83.3
+Yemen has an inflation rate of 71.3
+
+The six continents are: Europe, Asia, North America, Australia/Oceania, South America, Africa, 
+
+Countries in Europe are:
+Albania, Andorra, Belarus, Belgium, Bosnia and Herzegovina, Croatia, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Guernsey, Holy See, Iceland, Ireland, Italy, Jan Mayen, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Man, Moldova, Monaco, Norway, Poland, Portugal, Romania, San Marino, Serbia and Montenegro, Slovakia, Slovenia, Spain, Svalbard, Switzerland, Ukraine, United Kingdom, 
+
+Countries in Asia are:
+Afghanistan, Ashmore and Cartier Islands, Bahrain, Bangladesh, Bhutan, British Indian Ocean Territory, Burma, Cambodia, China, Christmas Island, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Japan, Jordan, Kazakstan, North Korea, Kuwait, Kyrgyzstan, Laos, Lebanon, Macau, Malaysia, Maldives, Mongolia, Nepal, Oman, Pakistan, Papua New Guinea, Paracel Islands, Qatar, Russia, Saudi Arabia, Singapore, Spratly Islands, Syria, Taiwan, Tajikistan, Thailand, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, West Bank, Yemen, 
+
+Countries in North America are:
+Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Canada, Cayman Islands, Clipperton Island, Cuba, Dominican Republic, El Salvador, Greenland, Grenada, Guadeloupe, Guatemala, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Navassa Island, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Pierre and Miquelon, Trinidad and Tobago, Turks and Caicos Islands, Virgin Islands, 
+
+Countries in Australia/Oceania are:
+Baker Island, Coral Sea Islands, French Polynesia, Guam, Howland Island, Marshall Islands, Micronesia, Midway Islands, New Caledonia, New Zealand, Niue, Norfolk Island, Palau, Tokelau, Tuvalu, Vanuatu, Wake Island, 
+
+Countries in South America are:
+Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands, Guyana, Paraguay, Peru, South Georgia and the South Sandwich Islands, Uruguay, Venezuela, 
+
+Countries in Africa are:
+Algeria, Angola, Bassas da India, Botswana, Bouvet Island, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Congo, Cote dIvoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Europa Island, Gambia, Ghana, Glorioso Islands, Guinea-Bissau, Heard Island and McDonald Islands, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Mozambique, Namibia, Niger, Nigeria, Reunion, Saint Helena, Senegal, Seychelles, Sierra Leone, Somalia, Sudan, Swaziland, Tanzania, Togo, Tromelin Island, Uganda, Western Sahara, Zambia, Zimbabwe, 
+

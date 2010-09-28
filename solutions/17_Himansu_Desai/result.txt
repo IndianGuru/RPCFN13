@@ -1,0 +1,286 @@
+
+#### 1. Most populous
+China at: 1210004956
+
+#### 2. Most inflation
+#1 Belarus at: 244.0
+#2 Turkey at: 94.0
+#3 Azerbaijan at: 85.0
+#4 Malawi at: 83.3
+#5 Yemen at: 71.3
+
+#### 3. Continents with countries in alphabetical order
+   Europe with 49 countries 
+        __ Albania
+        __ Andorra
+        __ Austria
+        __ Belarus
+        __ Belgium
+        __ Bosnia and Herzegovina
+        __ Bulgaria
+        __ Croatia
+        __ Czech Republic
+        __ Denmark
+        __ Estonia
+        __ Faroe Islands
+        __ Finland
+        __ France
+        __ Germany
+        __ Gibraltar
+        __ Greece
+        __ Guernsey
+        __ Holy See
+        __ Hungary
+        __ Iceland
+        __ Ireland
+        __ Italy
+        __ Jan Mayen
+        __ Jersey
+        __ Latvia
+        __ Liechtenstein
+        __ Lithuania
+        __ Luxembourg
+        __ Macedonia
+        __ Malta
+        __ Man
+        __ Moldova
+        __ Monaco
+        __ Netherlands
+        __ Norway
+        __ Poland
+        __ Portugal
+        __ Romania
+        __ San Marino
+        __ Serbia and Montenegro
+        __ Slovakia
+        __ Slovenia
+        __ Spain
+        __ Svalbard
+        __ Sweden
+        __ Switzerland
+        __ Ukraine
+        __ United Kingdom
+   Asia with 59 countries 
+        __ Afghanistan
+        __ Armenia
+        __ Ashmore and Cartier Islands
+        __ Azerbaijan
+        __ Bahrain
+        __ Bangladesh
+        __ Bhutan
+        __ British Indian Ocean Territory
+        __ Brunei
+        __ Burma
+        __ Cambodia
+        __ China
+        __ Christmas Island
+        __ Cocos Islands
+        __ Cyprus
+        __ Gaza Strip
+        __ Georgia
+        __ Hong Kong
+        __ India
+        __ Indonesia
+        __ Iran
+        __ Iraq
+        __ Israel
+        __ Japan
+        __ Jordan
+        __ Kazakstan
+        __ Kuwait
+        __ Kyrgyzstan
+        __ Laos
+        __ Lebanon
+        __ Macau
+        __ Malaysia
+        __ Maldives
+        __ Mongolia
+        __ Nepal
+        __ North Korea
+        __ Oman
+        __ Pakistan
+        __ Papua New Guinea
+        __ Paracel Islands
+        __ Philippines
+        __ Qatar
+        __ Russia
+        __ Saudi Arabia
+        __ Singapore
+        __ South Korea
+        __ Spratly Islands
+        __ Sri Lanka
+        __ Syria
+        __ Taiwan
+        __ Tajikistan
+        __ Thailand
+        __ Turkey
+        __ Turkmenistan
+        __ United Arab Emirates
+        __ Uzbekistan
+        __ Vietnam
+        __ West Bank
+        __ Yemen
+   North America with 39 countries 
+        __ Anguilla
+        __ Antigua and Barbuda
+        __ Aruba
+        __ Bahamas
+        __ Barbados
+        __ Belize
+        __ Bermuda
+        __ British Virgin Islands
+        __ Canada
+        __ Cayman Islands
+        __ Clipperton Island
+        __ Costa Rica
+        __ Cuba
+        __ Dominica
+        __ Dominican Republic
+        __ El Salvador
+        __ Greenland
+        __ Grenada
+        __ Guadeloupe
+        __ Guatemala
+        __ Haiti
+        __ Honduras
+        __ Jamaica
+        __ Martinique
+        __ Mexico
+        __ Montserrat
+        __ Navassa Island
+        __ Netherlands Antilles
+        __ Nicaragua
+        __ Panama
+        __ Puerto Rico
+        __ Saint Kitts and Nevis
+        __ Saint Lucia
+        __ Saint Pierre and Miquelon
+        __ Saint Vincent and the Grenadines
+        __ Trinidad and Tobago
+        __ Turks and Caicos Islands
+        __ United States
+        __ Virgin Islands
+   Australia/Oceania with 33 countries 
+        __ American Samoa
+        __ Australia
+        __ Baker Island
+        __ Cook Islands
+        __ Coral Sea Islands
+        __ Fiji
+        __ French Polynesia
+        __ Guam
+        __ Howland Island
+        __ Jarvis Island
+        __ Johnston Atoll
+        __ Kingman Reef
+        __ Kiribati
+        __ Marshall Islands
+        __ Micronesia
+        __ Midway Islands
+        __ Nauru
+        __ New Caledonia
+        __ New Zealand
+        __ Niue
+        __ Norfolk Island
+        __ Northern Mariana Islands
+        __ Palau
+        __ Palmyra Atoll
+        __ Pitcairn Islands
+        __ Solomon Islands
+        __ Tokelau
+        __ Tonga
+        __ Tuvalu
+        __ Vanuatu
+        __ Wake Island
+        __ Wallis and Futuna
+        __ Western Samoa
+   South America with 15 countries 
+        __ Argentina
+        __ Bolivia
+        __ Brazil
+        __ Chile
+        __ Colombia
+        __ Ecuador
+        __ Falkland Islands
+        __ French Guiana
+        __ Guyana
+        __ Paraguay
+        __ Peru
+        __ South Georgia and the South Sandwich Islands
+        __ Suriname
+        __ Uruguay
+        __ Venezuela
+   Africa with 65 countries 
+        __ Algeria
+        __ Angola
+        __ Bassas da India
+        __ Benin
+        __ Botswana
+        __ Bouvet Island
+        __ Burkina Faso
+        __ Burundi
+        __ Cameroon
+        __ Cape Verde
+        __ Central African Republic
+        __ Chad
+        __ Comoros
+        __ Congo
+        __ Cote dIvoire
+        __ Djibouti
+        __ Egypt
+        __ Equatorial Guinea
+        __ Eritrea
+        __ Ethiopia
+        __ Europa Island
+        __ French Southern and Antarctic Lands
+        __ Gabon
+        __ Gambia
+        __ Ghana
+        __ Glorioso Islands
+        __ Guinea
+        __ Guinea-Bissau
+        __ Heard Island and McDonald Islands
+        __ Juan de Nova Island
+        __ Kenya
+        __ Lesotho
+        __ Liberia
+        __ Libya
+        __ Madagascar
+        __ Malawi
+        __ Mali
+        __ Mauritania
+        __ Mauritius
+        __ Mayotte
+        __ Morocco
+        __ Mozambique
+        __ Namibia
+        __ Niger
+        __ Nigeria
+        __ Reunion
+        __ Rwanda
+        __ Saint Helena
+        __ Sao Tome and Principe
+        __ Senegal
+        __ Seychelles
+        __ Sierra Leone
+        __ Somalia
+        __ South Africa
+        __ Sudan
+        __ Swaziland
+        __ Tanzania
+        __ Togo
+        __ Tromelin Island
+        __ Tunisia
+        __ Uganda
+        __ Western Sahara
+        __ Zaire
+        __ Zambia
+        __ Zimbabwe
+Loaded suite rpcfn13_test
+Started
+.....
+Finished in 0.005000 seconds.
+
+5 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 45565

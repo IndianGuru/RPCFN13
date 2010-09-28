@@ -1,0 +1,26 @@
+As a developer it helps to be able to understand a client’s perspective and to build suitable applications to help them in their field. This means knowing a bit about the world. We’ll help this background knowledge by doing looking at some economic data, and also testing our XML parsing skills.
+
+The file cia-1996.xml is the data from the CIA World Factbook of 1996 in XML format. It has details about 260 countries across five continents. Your challenge, should you choose to accept it, is to uncover the following details buried within this file:
+
+   1. What is the population of the country with the most people? Yes, we know it’s China, but just how many people lived there in 1996?
+   2. What are the five countries with the highest inflation rates, and what were those rates in 1996?
+   3. What are the six continents in the file and which countries belong to which continent? Can you also produce them in alphabetical order?
+
+Once you’ve worked out how to do part (2), then you can do anything with this file; all you need is a bit of time. Knowing how to do (2) you could then do (3) without too much effort.
+
+
+ANSWERS:
+Country with more population: China with 1210004956 persons.
+Countries with biggest inflation: 
+				244 - Belarus
+				94 - Turkey
+				85 - Azerbaijan
+				83.3 - Malawi
+				71.3 - Yemen
+Continents with countries: 
+				Africa : Algeria,Angola,Bassas da India,Benin,Botswana,Bouvet Island,Burkina Faso,Burundi,Cameroon,Cape Verde,Central African Republic,Chad,Comoros,Congo,Cote dIvoire,Djibouti,Egypt,Equatorial Guinea,Eritrea,Ethiopia,Europa Island,French Southern and Antarctic Lands,Gabon,Gambia,Ghana,Glorioso Islands,Guinea,Guinea-Bissau,Heard Island and McDonald Islands,Juan de Nova Island,Kenya,Lesotho,Liberia,Libya,Madagascar,Malawi,Mali,Mauritania,Mauritius,Mayotte,Morocco,Mozambique,Namibia,Niger,Nigeria,Reunion,Rwanda,Saint Helena,Sao Tome and Principe,Senegal,Seychelles,Sierra Leone,Somalia,South Africa,Sudan,Swaziland,Tanzania,Togo,Tromelin Island,Tunisia,Uganda,Western Sahara,Zaire,Zambia,Zimbabwe 
+				Asia : Afghanistan,Armenia,Ashmore and Cartier Islands,Azerbaijan,Bahrain,Bangladesh,Bhutan,British Indian Ocean Territory,Brunei,Burma,Cambodia,China,Christmas Island,Cocos Islands,Cyprus,Gaza Strip,Georgia,Hong Kong,India,Indonesia,Iran,Iraq,Israel,Japan,Jordan,Kazakstan,North Korea,South Korea,Kuwait,Kyrgyzstan,Laos,Lebanon,Macau,Malaysia,Maldives,Mongolia,Nepal,Oman,Pakistan,Papua New Guinea,Paracel Islands,Philippines,Qatar,Russia,Saudi Arabia,Singapore,Spratly Islands,Sri Lanka,Syria,Taiwan,Tajikistan,Thailand,Turkey,Turkmenistan,United Arab Emirates,Uzbekistan,Vietnam,West Bank,Yemen 
+				Australia/Oceania : American Samoa,Australia,Baker Island,Cook Islands,Coral Sea Islands,Fiji,French Polynesia,Guam,Howland Island,Jarvis Island,Johnston Atoll,Kingman Reef,Kiribati,Marshall Islands,Micronesia,Midway Islands,Nauru,New Caledonia,New Zealand,Niue,Norfolk Island,Northern Mariana Islands,Palau,Palmyra Atoll,Pitcairn Islands,Solomon Islands,Tokelau,Tonga,Tuvalu,Vanuatu,Wake Island,Wallis and Futuna,Western Samoa 
+				Europe : Albania,Andorra,Austria,Belarus,Belgium,Bosnia and Herzegovina,Bulgaria,Croatia,Czech Republic,Denmark,Estonia,Faroe Islands,Finland,France,Germany,Gibraltar,Greece,Guernsey,Holy See,Hungary,Iceland,Ireland,Italy,Jan Mayen,Jersey,Latvia,Liechtenstein,Lithuania,Luxembourg,Macedonia,Malta,Man,Moldova,Monaco,Netherlands,Norway,Poland,Portugal,Romania,San Marino,Serbia and Montenegro,Slovakia,Slovenia,Spain,Svalbard,Sweden,Switzerland,Ukraine,United Kingdom 
+				North America : Anguilla,Antigua and Barbuda,Aruba,Bahamas,Barbados,Belize,Bermuda,British Virgin Islands,Canada,Cayman Islands,Clipperton Island,Costa Rica,Cuba,Dominica,Dominican Republic,El Salvador,Greenland,Grenada,Guadeloupe,Guatemala,Haiti,Honduras,Jamaica,Martinique,Mexico,Montserrat,Navassa Island,Netherlands Antilles,Nicaragua,Panama,Puerto Rico,Saint Kitts and Nevis,Saint Lucia,Saint Pierre and Miquelon,Saint Vincent and the Grenadines,Trinidad and Tobago,Turks and Caicos Islands,United States,Virgin Islands 
+				South America : Argentina,Bolivia,Brazil,Chile,Colombia,Ecuador,Falkland Islands,French Guiana,Guyana,Paraguay,Peru,South Georgia and the South Sandwich Islands,Suriname,Uruguay,Venezuela

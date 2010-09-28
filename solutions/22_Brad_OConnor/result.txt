@@ -1,0 +1,38 @@
+Population of the country with the most people is 1210004956
+
+The 5 countries with the highest inflation rates are:
+1. Belarus (244.0)
+2. Turkey (94.0)
+3. Azerbaijan (85.0)
+4. Malawi (83.3)
+5. Yemen (71.3)
+
+The 6 continents in the file are:
+1. Europe
+2. Asia
+3. North America
+4. Australia/Oceania
+5. South America
+6. Africa
+
+The following is a list of all countries in the files grouped by continent in alphabetical order
+Europe:
+Albania, Andorra, Austria, Belarus, Belgium, Bosnia and Herzegovina, Bulgaria, Croatia, Czech Republic, Denmark, Estonia, Faroe Islands, Finland, France, Germany, Gibraltar, Greece, Guernsey, Holy See, Hungary, Iceland, Ireland, Italy, Jan Mayen, Jersey, Latvia, Liechtenstein, Lithuania, Luxembourg, Macedonia, Malta, Man, Moldova, Monaco, Netherlands, Norway, Poland, Portugal, Romania, San Marino, Serbia and Montenegro, Slovakia, Slovenia, Spain, Svalbard, Sweden, Switzerland, Ukraine, United Kingdom
+Asia:
+Afghanistan, Armenia, Ashmore and Cartier Islands, Azerbaijan, Bahrain, Bangladesh, Bhutan, British Indian Ocean Territory, Brunei, Burma, Cambodia, China, Christmas Island, Cocos Islands, Cyprus, Gaza Strip, Georgia, Hong Kong, India, Indonesia, Iran, Iraq, Israel, Japan, Jordan, Kazakstan, Kuwait, Kyrgyzstan, Laos, Lebanon, Macau, Malaysia, Maldives, Mongolia, Nepal, North Korea, Oman, Pakistan, Papua New Guinea, Paracel Islands, Philippines, Qatar, Russia, Saudi Arabia, Singapore, South Korea, Spratly Islands, Sri Lanka, Syria, Taiwan, Tajikistan, Thailand, Turkey, Turkmenistan, United Arab Emirates, Uzbekistan, Vietnam, West Bank, Yemen
+North America:
+Anguilla, Antigua and Barbuda, Aruba, Bahamas, Barbados, Belize, Bermuda, British Virgin Islands, Canada, Cayman Islands, Clipperton Island, Costa Rica, Cuba, Dominica, Dominican Republic, El Salvador, Greenland, Grenada, Guadeloupe, Guatemala, Haiti, Honduras, Jamaica, Martinique, Mexico, Montserrat, Navassa Island, Netherlands Antilles, Nicaragua, Panama, Puerto Rico, Saint Kitts and Nevis, Saint Lucia, Saint Pierre and Miquelon, Saint Vincent and the Grenadines, Trinidad and Tobago, Turks and Caicos Islands, United States, Virgin Islands
+Australia/Oceania:
+American Samoa, Australia, Baker Island, Cook Islands, Coral Sea Islands, Fiji, French Polynesia, Guam, Howland Island, Jarvis Island, Johnston Atoll, Kingman Reef, Kiribati, Marshall Islands, Micronesia, Midway Islands, Nauru, New Caledonia, New Zealand, Niue, Norfolk Island, Northern Mariana Islands, Palau, Palmyra Atoll, Pitcairn Islands, Solomon Islands, Tokelau, Tonga, Tuvalu, Vanuatu, Wake Island, Wallis and Futuna, Western Samoa
+South America:
+Argentina, Bolivia, Brazil, Chile, Colombia, Ecuador, Falkland Islands, French Guiana, Guyana, Paraguay, Peru, South Georgia and the South Sandwich Islands, Suriname, Uruguay, Venezuela
+Africa:
+Algeria, Angola, Bassas da India, Benin, Botswana, Bouvet Island, Burkina Faso, Burundi, Cameroon, Cape Verde, Central African Republic, Chad, Comoros, Congo, Cote dIvoire, Djibouti, Egypt, Equatorial Guinea, Eritrea, Ethiopia, Europa Island, French Southern and Antarctic Lands, Gabon, Gambia, Ghana, Glorioso Islands, Guinea, Guinea-Bissau, Heard Island and McDonald Islands, Juan de Nova Island, Kenya, Lesotho, Liberia, Libya, Madagascar, Malawi, Mali, Mauritania, Mauritius, Mayotte, Morocco, Mozambique, Namibia, Niger, Nigeria, Reunion, Rwanda, Saint Helena, Sao Tome and Principe, Senegal, Seychelles, Sierra Leone, Somalia, South Africa, Sudan, Swaziland, Tanzania, Togo, Tromelin Island, Tunisia, Uganda, Western Sahara, Zaire, Zambia, Zimbabwe
+Loaded suite rpcfn13_test
+Started
+.....
+Finished in 0.005000 seconds.
+
+5 tests, 10 assertions, 0 failures, 0 errors, 0 skips
+
+Test run options: --seed 26078
